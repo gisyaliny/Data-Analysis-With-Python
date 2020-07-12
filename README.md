@@ -1,33 +1,25 @@
-# 利用 Python 进行数据分析 · 第 2 版
+# Python for Data Analysis, 2nd Edition
 
-![](cover.jpg)
+Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 
-> 译者：[SeanCheney](https://github.com/iamseancheney)
-> 
-> 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
 
-+   [ApacheCN 机器学习交流群 629470233](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)
-+   [ApacheCN 学习资源](http://www.apachecn.org/)
-+   [Sklearn 与 TensorFlow 机器学习实用指南](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF)
+This repo is only my personal study notes, plese [buy this book on Amazon](https://www.amazon.com/gp/product/1491957662/ref=as_li_tl?ie=UTF8&tag=quantpytho-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1491957662&linkId=8c3bf87b221dbcd8f541f0db20d4da83) or refer to the [original github repo](https://github.com/wesm/pydata-book).
 
-&zwj;
+![covers](cover.jpg)
 
-+ [在线阅读](https://www.gitbook.com/book/wizardforcel/pyda-2e/details)
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/pyda-2e)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/pyda-2e)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/pyda-2e)
-+ [代码仓库](https://github.com/apachecn/pyda-2e-zh)
+## Chapters
 
-下载本书代码（本书GitHub地址）：[https://github.com/wesm/pydata-book](https://github.com/wesm/pydata-book) （建议把代码下载下来之后，安装好Anaconda 3.6，在目录文件夹中用Jupyter notebook打开）
+### Ch-04 NumPy Basics
 
-本书是2017年10月20号正式出版的，和第1版的不同之处有：
+* 4.1 [The NumPy ndarray](https://gisyaliny.github.io/Data-Analysis-With-Python/ch-04-Numpy/4-1-ndarray.html)
+* 4.2 [Universal Functions](https://gisyaliny.github.io/Data-Analysis-With-Python/ch-04-Numpy/4-2-universal-functions.html)
+* 4.3 [Array-Oriented Programming with Arrays](https://gisyaliny.github.io/Data-Analysis-With-Python/ch-04-Numpy/4-3-Array-oriented-programming.html)
+* 4.4 [File Input and Output with Arrays](https://gisyaliny.github.io/Data-Analysis-With-Python/ch-04-Numpy/4-4-File-input-and-output-with-arrays.html)
+* 4.5 [Linear Algebra](https://gisyaliny.github.io/Data-Analysis-With-Python/ch-04-Numpy/4-5-Linear-algebra.html)
+* 4.6 [Pseudorandom Number Generation](https://gisyaliny.github.io/Data-Analysis-With-Python/ch-04-Numpy/4-6-Pseudorandom-Number-Generation.html)
+* 4.7 [Example: Random Walks](https://gisyaliny.github.io/Data-Analysis-With-Python/ch-04-Numpy/4-7-random-walks.html)
 
-* 包括Python教程内的所有代码升级为Python 3.6（第1版使用的是Python 2.7）
-* 更新了Anaconda和其它包的Python安装方法
-* 更新了Pandas为2017最新版
-* 新增了一章，关于更高级的Pandas工具，外加一些tips
-* 简要介绍了使用StatsModels和scikit-learn
+### Ch-05 Getting Started with pandas
 
-对有些内容进行了重新排版。（译者注1：最大的改变是把第1版附录中的Python教程，单列成了现在的第2章和第3章，并且进行了扩充。可以说，本书第2版对新手更为友好了！）
-
-（译者注2：毫无疑问，本书是学习Python数据分析最好的参考书。本来想把书名直接译为《Python数据分析》，这样更简短。但是为了尊重第1版的翻译，考虑到继承性，还是用老书名。这样读过第一版的老读者可以方便的用之前的书名检索到第二版。作者在写第二版的时候，有些文字是照搬第一版的。所以第二版的翻译也借鉴copy了第一版翻译：即，如果第二版中有和第一版相同的文字，则copy第一版的中文译本，觉得不妥的地方会稍加修改，剩下的不同的内容就自己翻译。这样做也是为读过第一版的老读者考虑——相同的内容可以直接跳过。）
+* 5.1 [Introduction to pandas Data Structures](https://gisyaliny.github.io/Data-Analysis-With-Python/ch-05-Pandas/5-1-Introduction.html)
+* 5.2 [Essential Functionality](https://gisyaliny.github.io/Data-Analysis-With-Python/ch-05-Pandas/5-2-Essential-Functionality.html)
