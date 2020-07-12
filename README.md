@@ -11,15 +11,15 @@ This repo is only my personal study notes, plese [buy this book on Amazon](https
 
 ### Ch-04 NumPy Basics
 
-* 4.1 [The NumPy ndarray](https://gisyaliny.github.io/Data-Analysis-With-Python/ch-04-Numpy/4-1-ndarray.html)
-* 4.2 [Universal Functions](https://gisyaliny.github.io/Data-Analysis-With-Python/ch-04-Numpy/4-2-universal-functions.html)
-* 4.3 [Array-Oriented Programming with Arrays](https://gisyaliny.github.io/Data-Analysis-With-Python/ch-04-Numpy/4-3-Array-oriented-programming.html)
-* 4.4 [File Input and Output with Arrays](https://gisyaliny.github.io/Data-Analysis-With-Python/ch-04-Numpy/4-4-File-input-and-output-with-arrays.html)
-* 4.5 [Linear Algebra](https://gisyaliny.github.io/Data-Analysis-With-Python/ch-04-Numpy/4-5-Linear-algebra.html)
-* 4.6 [Pseudorandom Number Generation](https://gisyaliny.github.io/Data-Analysis-With-Python/ch-04-Numpy/4-6-Pseudorandom-Number-Generation.html)
-* 4.7 [Example: Random Walks](https://gisyaliny.github.io/Data-Analysis-With-Python/ch-04-Numpy/4-7-random-walks.html)
+* 4.1 [The NumPy ndarray](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/ch-04-Numpy/4-1-ndarray.html)
+* 4.2 [Universal Functions](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/ch-04-Numpy/4-2-universal-functions.html)
+* 4.3 [Array-Oriented Programming with Arrays](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/ch-04-Numpy/4-3-Array-oriented-programming.html)
+* 4.4 [File Input and Output with Arrays](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/ch-04-Numpy/4-4-File-input-and-output-with-arrays.html)
+* 4.5 [Linear Algebra](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/ch-04-Numpy/4-5-Linear-algebra.html)
+* 4.6 [Pseudorandom Number Generation](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/ch-04-Numpy/4-6-Pseudorandom-Number-Generation.html)
+* 4.7 [Example: Random Walks](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/ch-04-Numpy/4-7-random-walks.html)
 
 ### Ch-05 Getting Started with pandas
 
-* 5.1 [Introduction to pandas Data Structures](https://gisyaliny.github.io/Data-Analysis-With-Python/ch-05-Pandas/5-1-Introduction.html)
-* 5.2 [Essential Functionality](https://gisyaliny.github.io/Data-Analysis-With-Python/ch-05-Pandas/5-2-Essential-Functionality.html)
+* 5.1 [Introduction to pandas Data Structures](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/ch-05-Pandas/5-1-Introduction.html)
+* 5.2 [Essential Functionality](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/ch-05-Pandas/5-2-Essential-Functionality.html)
