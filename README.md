@@ -23,3 +23,8 @@ This repo is only my personal study notes, plese [buy this book on Amazon](https
 
 * 5.1 [Introduction to pandas Data Structures](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/ch-05-Pandas/5-1-Introduction.html)
 * 5.2 [Essential Functionality](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/ch-05-Pandas/5-2-Essential-Functionality.html)
+* 5.3 [Summarizing and Computing Descriptive Statistics](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/ch-05-Pandas/5-3-Descriptive-Statistics.html)
+
+### Ch-06 Data Loading, Storage, and File Formats
+
+* 6.1 [Reading and Writing Data in Text Format](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/ch-06-Data-Analyze/Reading-and-Writting.html)
