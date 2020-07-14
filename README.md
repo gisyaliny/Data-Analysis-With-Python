@@ -28,3 +28,6 @@ This repo is only my personal study notes, plese [buy this book on Amazon](https
 ### Ch-06 Data Loading, Storage, and File Formats
 
 * 6.1 [Reading and Writing Data in Text Format](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/ch-06-Data-Analyze/Reading-and-Writting.html)
+* 6.2 [Binary Data Formats](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/ch-06-Data-Analyze/6-2-Binary-Data-Formats.html)
+* 6.3 [Interacting with Web APIs](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/ch-06-Data-Analyze/6-3-Web-APIs.html)
+* 6.4 [Interacting with Databases](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/ch-06-Data-Analyze/6-4-Interacting-with-Databases.html)
