@@ -34,6 +34,6 @@ This repo is only my personal study notes, plese [buy this book on Amazon](https
 
 ## Ch-07 Data Cleaning and Preparation
 
-* 7.1 [Handling Missing Data](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/7-1-Handling-Missing-Data.html)
-* 7.2 [Data Transformation](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/7-2-Data-Transformation.html)
-* 7.3 [String Manipulation](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/7-3-String-Manipulation.html)
+* 7.1 [Handling Missing Data](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/ch-07-Data-Cleaning/7-1-Handling-Missing-Data.html)
+* 7.2 [Data Transformation](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/ch-07-Data-Cleaning/7-2-Data-Transformation.html)
+* 7.3 [String Manipulation](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/ch-07-Data-Cleaning/7-3-String-Manipulation.html)
