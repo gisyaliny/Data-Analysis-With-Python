@@ -31,3 +31,9 @@ This repo is only my personal study notes, plese [buy this book on Amazon](https
 * 6.2 [Binary Data Formats](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/ch-06-Data-Analyze/6-2-Binary-Data-Formats.html)
 * 6.3 [Interacting with Web APIs](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/ch-06-Data-Analyze/6-3-Web-APIs.html)
 * 6.4 [Interacting with Databases](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/ch-06-Data-Analyze/6-4-Interacting-with-Databases.html)
+
+## Ch-07 Data Cleaning and Preparation
+
+* 7.1 [Handling Missing Data](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/7-1-Handling-Missing-Data.html)
+* 7.2 [Data Transformation](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/7-2-Data-Transformation.html)
+* 7.3 [String Manipulation](https://gisyaliny.github.io/Data-Analysis-With-Python/Notebooks/7-3-String-Manipulation.html)

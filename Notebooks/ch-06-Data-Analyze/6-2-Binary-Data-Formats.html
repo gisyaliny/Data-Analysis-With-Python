@@ -13077,6 +13077,14 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
+<p><h1>Table of Contents<span class="tocSkip"></span></h1></p>
+<div class="toc"><ul class="toc-item"><li><ul class="toc-item"><li><span><a href="#pandas-has-built-in-support-for-two-more-binary-data-formats:-HDF5-and-Message‐Pack." data-toc-modified-id="pandas-has-built-in-support-for-two-more-binary-data-formats:-HDF5-and-Message‐Pack.-0.1"><span class="toc-item-num">0.1&nbsp;&nbsp;</span><code>pandas</code> has built-in support for two more binary data formats: <code>HDF5</code> and <code>Message‐Pack</code>.</a></span></li></ul></li><li><span><a href="#Using-HDF5-Format" data-toc-modified-id="Using-HDF5-Format-1"><span class="toc-item-num">1&nbsp;&nbsp;</span>Using HDF5 Format</a></span></li><li><span><a href="#Reading-Microsoft-Excel-Files" data-toc-modified-id="Reading-Microsoft-Excel-Files-2"><span class="toc-item-num">2&nbsp;&nbsp;</span>Reading Microsoft Excel Files</a></span><ul class="toc-item"><li><span><a href="#If-you-are-reading-multiple-sheets-in-a-file,-then-it-is-faster-to-create-the-ExcelFile" data-toc-modified-id="If-you-are-reading-multiple-sheets-in-a-file,-then-it-is-faster-to-create-the-ExcelFile-2.1"><span class="toc-item-num">2.1&nbsp;&nbsp;</span>If you are reading multiple sheets in a file, then it is faster to create the ExcelFile</a></span></li><li><span><a href="#To-write-pandas-data-to-Excel-format,-you-must-first-create-an-ExcelWriter,-then-write-data-to-it-using-pandas-objects’-to_excel-method:" data-toc-modified-id="To-write-pandas-data-to-Excel-format,-you-must-first-create-an-ExcelWriter,-then-write-data-to-it-using-pandas-objects’-to_excel-method:-2.2"><span class="toc-item-num">2.2&nbsp;&nbsp;</span>To write pandas data to Excel format, you must first create an <code>ExcelWriter</code>, then write data to it using pandas objects’ <code>to_excel</code> method:</a></span></li></ul></li></ul></div>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
 <h1 id="6.2-Binary-Data-Formats">6.2 Binary Data Formats<a class="anchor-link" href="#6.2-Binary-Data-Formats">&#182;</a></h1><p>One of the easiest ways to store data (also known as <em>serialization</em>) efficiently in binary format is using Python’s built-in <code>pickle</code> serialization. pandas objects all have a <code>to_pickle</code> method that writes the data to disk in <code>pickle</code> format:</p>
 
 </div>
@@ -13296,7 +13304,7 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="1.-Using-HDF5-Format">1. Using HDF5 Format<a class="anchor-link" href="#1.-Using-HDF5-Format">&#182;</a></h3><ul>
+<h3 id="Using-HDF5-Format">Using HDF5 Format<a class="anchor-link" href="#Using-HDF5-Format">&#182;</a></h3><ul>
 <li>HDF5 is a well-regarded file format intended for storing large quantities of scientific array data.It is available as a C library, and it has interfaces available in many other languages, including Java, Julia, MATLAB, and Python.</li>
 <li>The “HDF” in HDF5 stands for hierarchical data format.</li>
 <li>HDF5 can be a good choice for working with very large datasets that don’t fit into memory, as you can efficiently read and write small sections of much larger arrays.</li>
@@ -13750,7 +13758,7 @@ File path: mydata.h5</pre>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="2.-Reading-Microsoft-Excel-Files">2. Reading Microsoft Excel Files<a class="anchor-link" href="#2.-Reading-Microsoft-Excel-Files">&#182;</a></h3><ul>
+<h3 id="Reading-Microsoft-Excel-Files">Reading Microsoft Excel Files<a class="anchor-link" href="#Reading-Microsoft-Excel-Files">&#182;</a></h3><ul>
 <li>pandas also supports reading tabular data stored in Excel 2003 (and higher) files using either the <code>ExcelFile</code> class or <code>pandas.read_excel</code> function.</li>
 <li>Internally these tools use the add-on packages <code>xlrd</code> and <code>openpyxl</code> to read XLS and XLSX files, respectively. </li>
 </ul>
